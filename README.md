@@ -1,0 +1,2 @@
+moodle-wysiwyg-replacement
+==========================
